@@ -4,14 +4,14 @@
 <!-- [Introduction](README.md) -->
 # Cherry Creek Trailer
 
-- [Restroom(s)](./chapter_1.md)
+- [Restroom(s)](./restrooms_cherry.md)
 - [Opening The Trailer](./chapter_2.md)
 - [Making a Sale+](./chapter_2.md)
 - [Closing The Trailer](my-first-chapter.md)
 - [Location Specific Information](nested/README.md)
 
 # 7th Street Store
-- [Restroom(s)](./chapter_1.md)
+- [Restroom(s)](./restrooms_7)
 - [Opening The Store](./chapter_2.md)
 - [Making a Sale+](./chapter_2.md)
 - [Closing The Store](my-first-chapter.md)
